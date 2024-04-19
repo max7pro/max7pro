@@ -1,6 +1,6 @@
 👋 Hi, I’m @max7pro
 👀 I’m interested in NodeJS... Of course I also like HTML/CSS, PHP and Python,
-because it the inerested things in my live.
+because it are the inerestest things in my live.
 But NodeJS with Vue and Vite (or some similar tools) are my favorites stack ;-)
 
 <!---
